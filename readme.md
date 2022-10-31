@@ -5,5 +5,5 @@ My name is Paulo and i was born in Santo André SP.
 * **Name:** Paulo Eduardo.
 * **Age:** 24.
 * **Living in:** Natal RN, Brazil.
-* **Stack:** HTML -  CSS - git - PHP.
+* **Stack:** HTML -  CSS - git - JavaScript.
 * **University:** None
